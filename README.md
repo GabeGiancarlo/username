@@ -5,7 +5,7 @@
 * **Name:** Gabriel Giancarlo
 * **Course:** CPCS 298 - Introduction to NIX
 * **Assignment:** Username Validation
-* **Date:** January 21, 2026
+* **Date:** January 19, 2026
 
 ## Program Description
 
